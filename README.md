@@ -11,10 +11,20 @@ A Streamlit-based recommendation system that suggests fashion products using mul
 3. Item–Item Collaborative Filtering
 
 4 . Hybrid Recommendation Model (50% Content + 50% Collaborative)
+
+MAIN PAGE
 ![imge alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/3a782ab577540d3aed8e0773e3c43a23c985760b/1rec.png)
+
+CONTENT-BASED FILTERING
 ![imge alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/3a782ab577540d3aed8e0773e3c43a23c985760b/2rec.png)
+
+COLLABORATIVE USER-TO USER FILTERING
 ![imge alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/3a782ab577540d3aed8e0773e3c43a23c985760b/3rec.png)
+
+COLLABORATIVE ITEM TO ITEM FILTERING
 ![imge alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/3a782ab577540d3aed8e0773e3c43a23c985760b/4rec.png)
+
+HYBRID FILTERING
 ![imge alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/3a782ab577540d3aed8e0773e3c43a23c985760b/5rec.png)
 
 🧠 Tech Stack
