@@ -22,7 +22,7 @@ COLLABORATIVE USER-TO USER FILTERING
 ![imge alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/3a782ab577540d3aed8e0773e3c43a23c985760b/3rec.png)
 
 COLLABORATIVE ITEM TO ITEM FILTERING
-![imge alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/3a782ab577540d3aed8e0773e3c43a23c985760b/4rec.png)
+![image_alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/215deb0c767385fe5982700a58cb6e413c8c4ca6/4recc.png)
 
 HYBRID FILTERING
 ![imge alt](https://github.com/sakshiparadkar/Myntra-Recommendation-Engine-/blob/3a782ab577540d3aed8e0773e3c43a23c985760b/5rec.png)
